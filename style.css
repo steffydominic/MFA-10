@@ -1,0 +1,92 @@
+body{
+    background-color: #0d1a2d;
+}
+
+.mainbox{
+    background-color:#15273f;
+    width:400px;
+    height: 680px; 
+    border-radius:16px;
+    margin-left: 560px;
+    margin-top: 150px;
+}
+.img img{
+    width:345px;
+    height: 300px;
+    margin-left:27px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+#heading{
+     color:white;
+     font-size: 25px;;
+     font-family: 'Outfit', sans-serif;
+     font-weight:900;
+     margin-left:27px ;
+}
+#our{
+    color: #8196b2;
+    font-size: 21px;;
+    font-family: 'Outfit', sans-serif;
+    margin-left: 27px ;
+}
+#value{
+    color: hsl(178, 100%, 50%);
+    font-size: 20px;
+    margin-left: 10px;
+}
+.ether{
+    display: flex;
+}
+#ethimg {
+    height:24px;
+    width: 15px;
+    margin-left:27px ;
+    margin-top: 18px;
+}
+span{
+    color: #8196b2;
+    /* margin-left: 280px; */
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+}
+#clock{
+  margin-top: 20px;
+}
+.middle{
+    display: flex;
+}
+.days{
+    margin-left: 120px;
+}
+.creation{
+    display: flex;
+    margin-left: 8px;
+    margin: 15px;
+}
+#avatar{
+    width: 50px;
+    height:50px;
+    border-color:2px white;
+    margin-left: 20px ;
+    margin-top: 8px;
+}
+#of{
+    color: #8196b2;
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+   margin-left: 19px;
+   margin-bottom: 20px;
+}
+#jules{
+    font-weight:400;
+    font-size: 19px;
+    color: white;
+    margin-left :8px;
+    font-family: 'Outfit', sans-serif;
+}
+hr{
+    width:340px;
+    height:0px;
+}
